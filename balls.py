@@ -30,7 +30,7 @@ class Ball:
         self.vy = starting_vy
 
 balls = [
-    Ball("green", "red", 50, 300, 300, 4, 7),
+    Ball("green", "salmon", 50, 300, 300, 4, 7),
     Ball("green", "blue", 50, 300, 300, 1, 2),
     Ball("green", "purple", 50, 300, 300, 10, 6),
     Ball("green", "orange", 50, 300, 300, 10, -6),
